@@ -1,6 +1,6 @@
 # strokeIt
 
-A very simple SVG stroke animation javascript plugin. Can be use with or without jQuery.
+A very simple SVG stroke animation javascript plugin. Can be used with or without jQuery.
 
 ## Usage
 
